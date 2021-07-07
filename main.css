@@ -1,0 +1,93 @@
+body {
+    border-style:none;
+    margin: 0;
+}   
+
+#dog {
+    height: 30em;
+    width: auto;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    
+} 
+.image_description {
+    font-family: Bradley Hand, cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14pt;
+}
+
+#art1 {
+    height: 20em;
+    width: auto;
+}
+
+#dogDiv {
+    background-color: #cecece;
+    padding: 2em;
+    padding-left: 10em;
+   
+}
+
+.ImageHeader {
+    font-family: Papyrus, Fantasy; 
+    font-size: 30pt;
+}
+
+#redSquare {
+    background-color: #aaaaaa;
+    
+    text-align: right;
+    padding: 2em;
+    padding-right: 10em;
+    
+}
+
+#blueRectangles {
+    background-color: #cecece;
+    padding: 2em;
+    padding-left: 10em;
+    
+   
+}
+
+h3 {
+    font-size: 25pt;
+}
+
+h1 {
+    font-family: 'MinecrafterAltRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 50pt;
+    
+    
+}
+.top {
+    color: cornsilk;
+}
+
+#button {
+    
+    text-decoration: none;
+    color: cornsilk;
+    
+}
+
+#ewan {
+    width: 177.5em;
+    height: 100em;
+}
+
+#top {
+    text-align: center;
+    padding: 20.5em;
+    background-image: url(images/image0.jpg);
+    border-radius: 0px;
+    text-shadow: 0em 0em 5em #070606 ; 
+    margin: 0px;
+    padding-bottom: 24em;
+    
+    
+}
